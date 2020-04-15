@@ -1,4 +1,4 @@
-# python-flask-rest-api
-REST API using Python using Flask
+# github-docker-kubernetes
+Demo for connecting Github to Docker and Kubernetes
 
 Coming soon 
